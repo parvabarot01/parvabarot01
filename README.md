@@ -146,9 +146,6 @@ This research presents an IoT-assisted architecture for mushroom cultivation usi
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=parvabarot01&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvabarot01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
