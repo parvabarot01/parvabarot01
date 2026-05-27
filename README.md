@@ -4,8 +4,8 @@
 
 AZ | (602) 345-0683 | parvabarot1@gmail.com
 
-[![Email](https://img.shields.io/badge/Email-parvab832%40gmail.com-0A66C2?style=flat-square)](mailto:parvab832@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](<!-- Replace with your actual LinkedIn URL -->)
+[![Email](https://img.shields.io/badge/Email-parvabarot1%40gmail.com-0A66C2?style=flat-square)](mailto:parvabarot1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](<!-- https://www.linkedin.com/in/parvabarot/-->)
 [![Role](https://img.shields.io/badge/Role-Software%20Engineer-111827?style=flat-square)](#)
 [![Location](https://img.shields.io/badge/Location-AZ-374151?style=flat-square)](#)
 
