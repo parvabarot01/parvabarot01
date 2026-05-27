@@ -4,10 +4,19 @@
 
 AZ | (602) 345-0683 | parvabarot1@gmail.com
 
-[![Email](https://img.shields.io/badge/Email-parvabarot1%40gmail.com-0A66C2?style=flat-square)](mailto:parvabarot1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parvabarot/)
-[![Role](https://img.shields.io/badge/Role-Software%20Engineer-111827?style=flat-square)](#)
-[![Location](https://img.shields.io/badge/Location-AZ-374151?style=flat-square)](#)
+<p align="center">
+  <a href="mailto:parvabarot1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-parvabarot1%40gmail.com-0A66C2?style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/parvabarot/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="<!-- Add your portfolio website URL here -->">
+    <img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=flat-square&logo=vercel" />
+  </a>
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-374151?style=flat-square" />
+</p>
 
 ---
 
@@ -52,7 +61,7 @@ Built a cloud-connected smart lighting system using Raspberry Pi, LDR, and PIR s
 
 Designed an event-driven microservices pipeline using MQTT, AWS IoT Core, and Lambda, with RBAC-controlled two-way commands such as “Take Reading,” “LED ON,” and “LED OFF.”
 
-**Tech Stack:** `Raspberry Pi` `LDR` `PIR` `MQTT` `AWS IoT Core` `AWS Lambda` `Microsoft Fabric` `RBAC`
+**Tech Stack:** `Raspberry Pi` `MQTT` `AWS IoT Core` `AWS Lambda` `Microsoft Fabric` `RBAC`
 
 ---
 
@@ -62,7 +71,7 @@ Developed an NLP-based grammar correction tool using T5 and BERT, achieving 93% 
 
 Fine-tuned pre-trained sequence-to-sequence models for high-precision text correction and built an LLM pipeline with RAG, embeddings, prompt versioning, and Responsible AI guardrails.
 
-**Tech Stack:** `RNN` `T5` `BERT` `RAG` `Embeddings` `LLM Pipelines` `Responsible AI`
+**Tech Stack:** `Python` `T5` `BERT` `RAG` `Embeddings` `LLM Pipelines`
 
 ---
 
@@ -72,7 +81,7 @@ Developed a secure file-transfer module using C# and .NET Core with AES-256 encr
 
 The system supported secure, low-latency log replication and maintained 99.9% operational uptime.
 
-**Tech Stack:** `C#` `.NET Core` `AES-256 Encryption` `Chunked Streaming` `JWT` `Redis`
+**Tech Stack:** `C#` `.NET Core` `AES-256 Encryption` `Redis` `JWT`
 
 ---
 
@@ -82,7 +91,7 @@ Co-developed a Python-based anomaly detection microservice using scikit-learn an
 
 The service helped flag performance anomalies early and supported on-call rotations by reducing incident response time.
 
-**Tech Stack:** `Python` `Scikit-learn` `Java` `Spring Boot` `gRPC` `OpenTelemetry` `Prometheus` `Grafana`
+**Tech Stack:** `Python` `Scikit-learn` `Java` `Spring Boot` `gRPC` `Prometheus` `Grafana`
 
 ---
 
@@ -92,17 +101,20 @@ The service helped flag performance anomalies early and supported on-call rotati
 **Sep 2024 – Present | AZ**
 
 - Developed and scaled 3 core Java/Spring Boot microservices in AWS ECS, using Apache Kafka to handle peak traffic spikes of 500K+ daily requests and improve end-to-end throughput by 32%.
-- Built RAG pipelines by integrating LLM APIs with vector search indexing, improving internal knowledge retrieval efficiency by 35%.
-- Instrumented backend services with OpenTelemetry, Prometheus metrics, and Grafana dashboards to track SLOs and accelerate root-cause identification.
+- Integrated OAuth 2.0, JWT validation, and RBAC policies using Spring Security to secure enterprise RESTful and GraphQL APIs.
+- Built Retrieval-Augmented Generation (RAG) pipelines by integrating LLM APIs with vector search indexing, improving query resolution efficiency by 35%.
+- Optimized PostgreSQL read paths and implemented Redis caching to reduce p95 API response latency under high concurrency.
+- Instrumented backend services using OpenTelemetry, Prometheus, and Grafana to improve SLO tracking and root-cause analysis workflows.
 
 ---
 
 ### **Virtual Infotech Solution** — *Software Engineer*  
 **Jan 2021 – Jul 2023 | India**
 
-- Developed a secure file-transfer module using C#/.NET Core, AES-256 encryption, and optimized chunked data streaming with 99.9% operational uptime.
-- Built Python data processing pipelines with Pandas and Scikit-learn to clean and parse 500K+ record datasets.
-- Optimized a React and Redux web portal for media delivery by configuring CloudFront CDN caching strategies and RESTful API improvements.
+- Developed a secure file-transfer module using C#/.NET Core and AES-256 encryption with 99.9% operational uptime.
+- Built Python data processing pipelines using Pandas and Scikit-learn to clean and process 500K+ record datasets.
+- Authored Terraform configurations to automate CI/CD infrastructure provisioning across cloud environments.
+- Optimized a React and Redux frontend using CloudFront CDN caching strategies and REST API improvements.
 
 ---
 
@@ -122,7 +134,7 @@ The service helped flag performance anomalies early and supported on-call rotati
 
 *Advances in Data and Information Sciences, ICDIS 2023, Lecture Notes in Networks and Systems, Vol. 796, Springer, Singapore, 2024*
 
-This research presents an IoT-assisted approach for mushroom cultivation in an agile environment.
+This research presents an IoT-assisted architecture for mushroom cultivation using connected devices and intelligent monitoring systems in agile environments.
 
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--981--99--6906--7__26-4B5563?style=flat-square)](https://link.springer.com/chapter/10.1007/978-981-99-6906-7_26)
 
@@ -131,8 +143,22 @@ This research presents an IoT-assisted approach for mushroom cultivation in an a
 ## GitHub Activity
 
 <p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=parvabarot1&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvabarot1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## Certifications
+
+- AWS Cloud and Infrastructure Technologies
+- Distributed Backend Systems Engineering
+- CI/CD and Cloud Deployment Workflows
+- Observability and Monitoring Systems
+- AI/ML and NLP-based System Development
 
 ---
 
@@ -141,13 +167,16 @@ This research presents an IoT-assisted approach for mushroom cultivation in an a
 I welcome conversations around backend engineering, distributed systems, cloud infrastructure, AI/ML integrations, and software engineering opportunities.
 
 <p align="center">
-  <a href="mailto:parvabarot01.com">
+  <a href="mailto:parvabarot1@gmail.com">
     <img src="https://img.shields.io/badge/Email-parvabarot1%40gmail.com-0A66C2?style=flat-square" />
   </a>
-  <a href="<!-- https://www.linkedin.com/in/parvabarot/ -->">
+  <a href="https://www.linkedin.com/in/parvabarot/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=parvab832&style=flat-square&color=0A66C2" />
+  <a href="<!-- Add your portfolio website URL here -->">
+    <img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=flat-square&logo=vercel" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=parvabarot1&style=flat-square&color=0A66C2" />
 </p>
 
 ---
