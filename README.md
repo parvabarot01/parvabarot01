@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-AZ | (602) 345-0683 | parvab832@gmail.com
+AZ | (602) 345-0683 | parvabarot1@gmail.com
 
 [![Email](https://img.shields.io/badge/Email-parvab832%40gmail.com-0A66C2?style=flat-square)](mailto:parvab832@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](<!-- Replace with your actual LinkedIn URL -->)
@@ -131,7 +131,7 @@ This research presents an IoT-assisted approach for mushroom cultivation in an a
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvab832&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvabarot1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -141,31 +141,13 @@ This research presents an IoT-assisted approach for mushroom cultivation in an a
 I welcome conversations around backend engineering, distributed systems, cloud infrastructure, AI/ML integrations, and software engineering opportunities.
 
 <p align="center">
-  <a href="mailto:parvab832@gmail.com">
-    <img src="https://img.shields.io/badge/Email-parvab832%40gmail.com-0A66C2?style=flat-square" />
+  <a href="mailto:parvabarot01.com">
+    <img src="https://img.shields.io/badge/Email-parvabarot1%40gmail.com-0A66C2?style=flat-square" />
   </a>
-  <a href="<!-- Replace with your actual LinkedIn URL -->">
+  <a href="<!-- https://www.linkedin.com/in/parvabarot/ -->">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=parvab832&style=flat-square&color=0A66C2" />
 </p>
 
 ---
-
-┌─────────────────────────────────────────────────────┐
-│  📌 Git Instructions                                │
-│                                                     │
-│  1. Create a new repo on GitHub named exactly       │
-│     the same as your GitHub username                │
-│  2. Set it to Public                                │
-│  3. Then run:                                       │
-│                                                     │
-│  git clone https://github.com/<username>/<username> │
-│  cd <username>                                      │
-│  (replace README.md with this generated file)       │
-│  git add .                                          │
-│  git commit -m "profile: GitHub README"             │
-│  git push origin main                               │
-│                                                     │
-│  Your profile page will update instantly.           │
-└─────────────────────────────────────────────────────┘
