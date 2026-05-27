@@ -11,7 +11,7 @@ AZ | (602) 345-0683 | parvabarot1@gmail.com
   <a href="https://www.linkedin.com/in/parvabarot/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  <a href="<!-- Add your portfolio website URL here -->">
+  <a href="https://portfolio-parva.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=flat-square&logo=vercel" />
   </a>
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-111827?style=flat-square" />
@@ -173,7 +173,7 @@ I welcome conversations around backend engineering, distributed systems, cloud i
   <a href="https://www.linkedin.com/in/parvabarot/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  <a href="<!-- Add your portfolio website URL here -->">
+  <a href="https://portfolio-parva.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=flat-square&logo=vercel" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=parvabarot1&style=flat-square&color=0A66C2" />
